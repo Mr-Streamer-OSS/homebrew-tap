@@ -45,6 +45,6 @@ downloaded copies. This tap declares no zap operation.
 
 ## Release verification
 
-[0.0.19 verification](docs/verification/0.0.19.md) records the published artifact,
+[0.0.21 verification](docs/verification/0.0.21.md) records the published artifact,
 package checks and remaining native verification limits. The cask supports
 Apple silicon only. Wout Stiens maintains this tap.
